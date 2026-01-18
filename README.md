@@ -5,7 +5,6 @@
 - 🌱 Estudando NoSQL e Machine Learning
 - 😄 Ele/dele
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joabe18&hide_progress=true&theme=dark)
 
 ## Possuo conhecimento em:
 <div style="display:inline_block"><br/>
