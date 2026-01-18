@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Joabe Oliveira👋
 
 
-- 🔭 Atualmente estou em busca de meu primeiro emprego
+
 - 🌱 Estudando NoSQL e Machine Learning
 - 😄 Ele/dele
 
